@@ -1,4 +1,4 @@
-![Screenshot from 2023-06-12 21-13-48](https://github.com/RotichKipkoech/My-Personal-Website/assets/132645931/92289278-9291-4286-b63b-ea12132b0abf)
+
 
 
 # Project Name
@@ -37,9 +37,11 @@ Vscode
 ##### https://rotichkipkoech.github.io/BANK-SYSTEM/
 
 ## Design
-![Screenshot from 2023-05-26 00-58-47](https://github.com/naomicherono/Banking-System/assets/132652298/56a30953-c105-45ec-96d1-5a810244a34b)
+![Screenshot from 2023-06-12 21-13-48](https://github.com/RotichKipkoech/My-Personal-Website/assets/132645931/92289278-9291-4286-b63b-ea12132b0abf)
 
-![Screenshot from 2023-05-26 08-44-07](https://github.com/naomicherono/Banking-System/assets/132652298/940be50a-4c4c-4e58-82de-2d98c3360964)
+![Screenshot from 2023-06-12 21-13-57](https://github.com/RotichKipkoech/My-Personal-Website/assets/132645931/53cc6995-ab9e-4ca3-9e67-1cbd66a6be9c)
+
+![Screenshot from 2023-06-12 21-14-01](https://github.com/RotichKipkoech/My-Personal-Website/assets/132645931/2900f3b0-6967-4c9c-83fc-86fe30367088)
 
 
 ### known Bugs
