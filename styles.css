@@ -110,3 +110,22 @@
     text-align: center;
     padding: 10px;
   }
+  .cursor{
+    color: aqua;
+  }
+  
+  
+  #contact {
+    padding: 80px 0;
+  }
+  
+  .contact-icons {
+    margin-bottom: 20px;
+  }
+  
+  .contact-icons a {
+    display: inline-block;
+    margin-right: 10px;
+    color: #333;
+    font-size: 24px;
+  }
