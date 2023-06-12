@@ -1,9 +1,6 @@
-
-
-
 # Project Name
 
-### Banking System
+### My-Personal-Website
 ### Author 
 ``` 
 KENNEDY ROTICH
@@ -11,14 +8,14 @@ KENNEDY ROTICH
 ```
 ## Project Description
 ```
-Banking system is a web portal that allows customers to organize and manage their finance by allowing them to budget their expenditure.
+The website Mainly contains personal information, it shows experience and aso projects i have build .
 ```
 
 ## Project SetUp and Instructions
 #### To set up and run the project follo the below steps
 
 ```
-git clone https://github.com/RotichKipkoech/BANK-SYSTEM.git
+git clone git@github.com:RotichKipkoech/My-Personal-Website.git
 git init
 git add <filename>
 git commit -m "initial commmit"
