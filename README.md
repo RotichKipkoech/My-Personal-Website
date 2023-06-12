@@ -32,3 +32,19 @@ Javascript
 css
 Git 
 Vscode
+```
+### lINK TO LIVE SITE
+##### https://rotichkipkoech.github.io/BANK-SYSTEM/
+
+## Design
+![Screenshot from 2023-05-26 00-58-47](https://github.com/naomicherono/Banking-System/assets/132652298/56a30953-c105-45ec-96d1-5a810244a34b)
+
+![Screenshot from 2023-05-26 08-44-07](https://github.com/naomicherono/Banking-System/assets/132652298/940be50a-4c4c-4e58-82de-2d98c3360964)
+
+
+### known Bugs
+#### There are no known bugs, incase of any please raise an issue
+
+### Support and Contacts
+     
+#### You can reach me on kennrottich@gmail.com
