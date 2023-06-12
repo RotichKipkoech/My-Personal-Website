@@ -39,4 +39,16 @@
     color: #fff;
     text-decoration: none;
   }
-  
+  .container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+  }
+  h2, h3{
+    color:orangered;
+    font-size: 30px;
+  }
+  h3{
+    padding-top: 50px;
+  }
